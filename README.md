@@ -1,4 +1,4 @@
-
+![Devendra Sahni](https://github.com/DevSahni/DevSahni/blob/main/DevendraSahni%20logo.gif)
 
 <h1 align="center">Hi 👋, I'm Devendra Sahni</h1>
 <h3 align="center">A passionate Web development And UI/UX Designer[Figma]</h3>
